@@ -11,6 +11,15 @@ a {
   text-decoration: none;
 }
 
+body {
+  background-color: hotpink;
+}
+
 * {
   box-sizing: border-box;
+}
+
+.center {
+  display: flex,
+  
 }
